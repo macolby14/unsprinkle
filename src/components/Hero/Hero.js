@@ -11,7 +11,8 @@ const Hero = () => {
           /images/hero-img@3x.avif 3x,
           " 
         />
-        <HeroImage src="/images/hero-img.jpg" 
+        <HeroImage src="/images/hero-img.jpg"
+        alt=""
         srcset="
           /images/hero-img.jpg 1x,
           /images/hero-img@2x.jpg 2x,
